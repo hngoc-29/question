@@ -104,7 +104,7 @@ function App() {
       setIsNo(false);
       setIndex(0);
       setCurrent(yes.current[0]);
-      if (index + 1 === yes.current.length) {
+      if (1 === yes.current.length) {
         setHiddenBtns(true);
       }
     } else {
