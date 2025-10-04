@@ -3,62 +3,70 @@
         "background": "https://img.freepik.com/hinh-chup-mien-phi/nen-ket-cau-be-tong-hoa-tiet-mau-hong-nhat_53876-129734.jpg?semt=ais_hybrid&w=740&q=80",
         "textColor": "#000000",
         "iconClickNo": "💔",
-        "iconClickYes": "💘",
-        "backgroundMusic": "https://audio.jukehost.co.uk/0VVjyDAHz0KcvSQFQeZzq5iQCpWfvShW",
-        "clickYesSound": "https://audio.jukehost.co.uk/17cNgisRhyClMEhRjQxob8fsmpsiRKmY",
-        "clickNoSound": ""
+        "iconClickYes": "😍",
+        "backgroundMusic": "https://res.cloudinary.com/dint85klf/video/upload/v1759576315/China-PiPa-B%E1%BA%A3n-Nh%E1%BA%A1c-EDM-CHINA-Huy%E1%BB%81n-Tho%E1%BA%A1i-_-Jin-Kun_f2ewpp.mp3",
+        "clickYesSound": "https://res.cloudinary.com/dint85klf/video/upload/v1759576455/tada-fanfare-a-6313_ny0mx9.mp3",
+        "clickNoSound": "https://res.cloudinary.com/dint85klf/video/upload/v1759583051/075176_duck-quack-40345_mp3cut.net_ggdonn.mp3"
     },
     "start": [
         {
             "sticker": "https://res.cloudinary.com/dint85klf/image/upload/v1759565443/tenor_r1uyvd.gif",
-            "msg": "Do you want to continue?",
+            "msg": "Bạn thấy tôi tốt tính không?",
             "btn": {
-                "Yes": "Yes",
-                "No": "No"
+                "Yes": "Cực tốt tính",
+                "No": "Không"
             }
         }
     ],
     "Yes": [
         {
-            "sticker": "https://i.pinimg.com/originals/e6/08/6a/e6086a5d146cf3b104b1a2a9ddc30148.gif",
-            "msg": "Yes",
+            "sticker": "https://res.cloudinary.com/dint85klf/image/upload/v1759584120/200w_k1cv0c.gif",
+            "msg": "Chúc mừng m đã chọn câu trả lời đúng.",
             "btn": {
-                "Yes": "Yes",
-                "No": "No"
+                "Yes": "Ok",
+                "No": "Đéo"
             }
         }
     ],
     "No": [
         {
-            "sticker": "https://i.pinimg.com/originals/3c/4e/1f/3c4e1f0a7e2f0f6e3f6e6e6e6e6e6e6e.gif",
-            "msg": "No",
+            "sticker": "https://res.cloudinary.com/dint85klf/image/upload/v1759584120/3b97635b6bd4a5bfc436fbd3908f05e0_wsblbg.gif",
+            "msg": "Sao lại ko?",
             "btn": {
-                "Yes": "Yes",
-                "No": "No"
+                "Yes": "Tốt",
+                "No": "Đéo"
             }
         },
         {
-            "sticker": "https://i.pinimg.com/originals/7b/1e/3c/7b1e3c4e1f0a7e2f0f6e3f6e6e6e6e6e.gif",
-            "msg": "Absolutely Not",
+            "sticker": "https://res.cloudinary.com/dint85klf/image/upload/v1759584120/photo-1-15217335155281537814060_leeddu.gif",
+            "msg": "Chịu bạn đấy, tôi tốt mà cho nói lại!!🥲🥲",
             "btn": {
-                "Yes": "Yes",
-                "No": "No"
+                "Yes": "Tôi đùa đấy tốt lắm😀😀",
+                "No": "Không tốt"
             }
         },
         {
-            "sticker": "https://i.pinimg.com/originals/1f/0a/7e/1f0a7e2f0f6e3f6e6e6e6e6e6e6e6e6e.gif",
-            "msg": "No Way",
+            "sticker": "https://res.cloudinary.com/dint85klf/image/upload/v1759584120/glECMc7_kizx7p.gif",
+            "msg": "Chịuuuuuu! Tau tốt mà.🐧🐧",
             "btn": {
-                "Yes": "Yes",
-                "No": "No"
+                "Yes": "Ờ mày tốt",
+                "No": "Chịu"
             }
         },
         {
-            "sticker": "https://i.pinimg.com/originals/6e/6e/6e/6e6e6e6e6e6e6e6e6e6e6e6e6e6e6e.gif",
-            "msg": "Not at All",
+            "sticker": "https://res.cloudinary.com/dint85klf/image/upload/v1759584120/41350d340f37c7ad1b7e3fe6a0547530_zfhjby.gif",
+            "msg": "T tốt mà chấp nhận sự thật đi!!",
             "btn": {
-                "Yes": "Yes",
-                "No": "No"
+                "Yes": "Ừ t chấp nhận r",
+                "No": "Đéo bao giờ"
+            }
+        },
+        {
+            "sticker": "https://res.cloudinary.com/dint85klf/image/upload/v1759584121/03a428ee705240475480c7722c6c2b3b_e8mg2g.gif",
+            "msg": "M chắc chưa??",
+            "btn": {
+                "Yes": "Không",
+                "No": "Chắc"
             }
         }
     ]
