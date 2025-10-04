@@ -1,0 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+@font-face {
+  font-family: "MyCustomFont";
+  /* Choose a descriptive name for your font */
+  src: url("/fonts/Pacifico-Regular.ttf") format("truetype");
+  font-weight: normal;
+  /* Adjust based on your font's weight */
+  font-style: normal;
+  /* Adjust based on your font's style */
+}

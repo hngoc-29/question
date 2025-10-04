@@ -1,0 +1,65 @@
+{
+    "config": {
+        "background": "https://img.freepik.com/hinh-chup-mien-phi/nen-ket-cau-be-tong-hoa-tiet-mau-hong-nhat_53876-129734.jpg?semt=ais_hybrid&w=740&q=80",
+        "textColor": "#000000",
+        "iconClickNo": "💔",
+        "iconClickYes": "💘",
+        "backgroundMusic": "https://audio.jukehost.co.uk/0VVjyDAHz0KcvSQFQeZzq5iQCpWfvShW",
+        "clickYesSound": "https://audio.jukehost.co.uk/17cNgisRhyClMEhRjQxob8fsmpsiRKmY",
+        "clickNoSound": ""
+    },
+    "start": [
+        {
+            "sticker": "https://res.cloudinary.com/dint85klf/image/upload/v1759565443/tenor_r1uyvd.gif",
+            "msg": "Do you want to continue?",
+            "btn": {
+                "Yes": "Yes",
+                "No": "No"
+            }
+        }
+    ],
+    "Yes": [
+        {
+            "sticker": "https://i.pinimg.com/originals/e6/08/6a/e6086a5d146cf3b104b1a2a9ddc30148.gif",
+            "msg": "Yes",
+            "btn": {
+                "Yes": "Yes",
+                "No": "No"
+            }
+        }
+    ],
+    "No": [
+        {
+            "sticker": "https://i.pinimg.com/originals/3c/4e/1f/3c4e1f0a7e2f0f6e3f6e6e6e6e6e6e6e.gif",
+            "msg": "No",
+            "btn": {
+                "Yes": "Yes",
+                "No": "No"
+            }
+        },
+        {
+            "sticker": "https://i.pinimg.com/originals/7b/1e/3c/7b1e3c4e1f0a7e2f0f6e3f6e6e6e6e6e.gif",
+            "msg": "Absolutely Not",
+            "btn": {
+                "Yes": "Yes",
+                "No": "No"
+            }
+        },
+        {
+            "sticker": "https://i.pinimg.com/originals/1f/0a/7e/1f0a7e2f0f6e3f6e6e6e6e6e6e6e6e6e.gif",
+            "msg": "No Way",
+            "btn": {
+                "Yes": "Yes",
+                "No": "No"
+            }
+        },
+        {
+            "sticker": "https://i.pinimg.com/originals/6e/6e/6e/6e6e6e6e6e6e6e6e6e6e6e6e6e6e6e.gif",
+            "msg": "Not at All",
+            "btn": {
+                "Yes": "Yes",
+                "No": "No"
+            }
+        }
+    ]
+}
