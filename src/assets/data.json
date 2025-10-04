@@ -68,6 +68,14 @@
                 "Yes": "Không",
                 "No": "Chắc"
             }
+        },
+{
+            "sticker": "https://res.cloudinary.com/dint85klf/image/upload/v1759584850/61472b8ee65a7fc3ea0e98688e32760c_b7kneu.gif",
+            "msg": "Cứng đầu vừa thôi",
+            "btn": {
+                "Yes": "M rất tốt",
+                "No": "T nói thật mà"
+            }
         }
     ]
 }
